@@ -1,4 +1,4 @@
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://health-camp-server.onrender.com/api';
 
 const getHeaders = (token = null) => {
   const headers = {
